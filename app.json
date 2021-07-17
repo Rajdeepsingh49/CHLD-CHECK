@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "child-security-v10",
+    "slug": "snack-5ca43c14-ad6e-42ad-9b3c-760396d7be77",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "THIS IS A CHILD SECURITY APP IN WILL ALWAYS KEEP YOUR CHILD SECURE.\nTHANK YOU"
+  }
+}
