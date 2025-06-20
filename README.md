@@ -1,11 +1,33 @@
-# Sample Snack app
+# Child check 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Developed by Rajdeep Singh
+Welcome to the first version of the Child Security App, designed to help parents and guardians ensure the safety of their children in a digital world. This app aims to provide basic tools for monitoring, location tracking, and emergency alerts, helping you stay connected and informed.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+⚠️ Note:
+This is the initial release of the app. While we've worked hard to build a solid foundation, there may still be some bugs or minor issues. Your feedback is important to us!
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+We're constantly working to make the app more secure, user-friendly, and feature-rich with each update.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+Key Features:
+Basic child location tracking
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Smart alerts for suspicious activity
+
+Emergency SOS alerts
+
+Easy-to-use dashboard for parents
+
+Coming Soon:
+App usage monitoring
+
+gesture aleart 
+
+new and improved UI
+
+
+Enhanced privacy and data protection features
+
+Thank you for trying out Child Security App v1.
+Your trust means everything. We're here to grow and improve — together.
+
+— Rajdeep Singh
